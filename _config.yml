@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/yh-scripts"
-url: "https://yairh.github.io/yh-scripts"
+# baseurl: ""
+url: "https://yairh.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Yair-Scripts                                    # site's title
